@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link, useNavigate } from "react-router-dom";
 import './Footer.css';
 
-const baseurl = 'http://localhost:5005';
+const baseurl = 'https://729df12d-1df7-4184-b21c-a187b10f67d4.e1-us-east-azure.choreoapps.dev';
 
 export default function Footer() {
     const navigate = useNavigate();

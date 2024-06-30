@@ -4,7 +4,7 @@ import './Signup.css';
 import Header from "./Header";
 import LoginFooter from "./LoginFooter";
 
-const baseurl = 'http://localhost:5005';
+const baseurl = 'https://729df12d-1df7-4184-b21c-a187b10f67d4.e1-us-east-azure.choreoapps.dev';
 
 export default function ForgetPassword() {
     const [email, setEmail] = useState("");
